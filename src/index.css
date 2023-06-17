@@ -1,0 +1,8 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #282c34; /* o cualquier otro color oscuro que estés usando */
+}
